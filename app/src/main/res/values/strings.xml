@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">webnavigator</string>
+    <string name="naver">네이버</string>
+    <string name="opgg">op.gg</string>
+    <string name="minecraft">minecraft</string>
+    <string name="maple">maple story</string>
+</resources>
